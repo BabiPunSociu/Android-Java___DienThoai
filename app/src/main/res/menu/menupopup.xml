@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idSua"
+        android:title="Sửa" />
+    <item
+        android:id="@+id/idXoa"
+        android:title="Xóa" />
+    <item
+        android:id="@+id/idCall"
+        android:title="Call" />
+    <item
+        android:id="@+id/idSendSMS"
+        android:title="Message" />
+</menu>
